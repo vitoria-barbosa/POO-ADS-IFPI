@@ -3,10 +3,10 @@
 
 1 - Classe é o molde que define as características (atributos) e os comportamentos (métodos) de um objeto. E o objeto é uma instância da classe, que segue o padrão determinado por ela. Como por exemplo, se tivermos uma classe Pessoa com atributos nome, idade, CPF e sexo, com métodos andar() e comer(), todos os objetos dessa classe como por exemplo o João vão ter seu próprio nome, idade, CPF e sexo, e também poderão andar() e comer().
 
-2 - Atributos são as características da Classe e os métodos são os comportamentos que essas classes podem ter. Exemplo:
-Classe ContaBancaria
-Atributos: titular, número, saldo.
-Métodos: depositar(), sacar(), verificarSaldo().
+2 - Atributos são as características da Classe e os métodos são os comportamentos que essas classes podem ter. Exemplo:  
+Classe ContaBancaria  
+Atributos: titular, número, saldo.  
+Métodos: depositar(), sacar(), verificarSaldo().  
 
 3 - 
 | **Atributo**            | **Sistema em que não é importante** | **Sistema em que é moderadamente importante** | **Sistema em que é essencial** |
@@ -27,6 +27,6 @@ b. Da mesma forma, pode acontecer sim de uma Pessoa ter mais de uma conta, entã
 
 5- Objetos de um sistema de controle acadêmico: aluno, professor, curso, disciplina, turma.
 
-6 - Jogo de Ping- pong:
-Atributos: quantidade de sets, jogador1, jogador2, duração.
+6 - Jogo de Ping- pong:  
+Atributos: quantidade de sets, jogador1, jogador2, duração.  
 Métodos: saque(), ataque(), iniciarPartida(), finalizarPartida().
