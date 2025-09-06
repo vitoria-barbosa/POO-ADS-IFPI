@@ -8,22 +8,22 @@ Classe ContaBancaria
 Atributos: titular, número, saldo.
 Métodos: depositar(), sacar(), verificarSaldo().
 
-3 - | **Atributo**            | **Sistema em que não é importante** | **Sistema em que é moderadamente importante** | **Sistema em que é essencial** |
-    |--------------------------|-------------------------------------|-----------------------------------------------|--------------------------------|
-    | **CPF**                  | Rede social | Plataforma de e-commerce (para emissão de nota fiscal) | Sistema bancário ou da Receita Federal |
-    | **Histórico de saúde**    | Sistema de rede social              | Sistema de academia (para treinos personalizados) | Sistema hospitalar / plano de saúde |
-    | **Quantidade de seguidores** | Sistema bancário                  | Plataforma de cursos online | Rede social (Instagram, TikTok) |
-    | **Habilidade destra**    | Sistema de e-commerce               | Jogo online     | Sistema de clínica de fisioterapia / ortopedia |
-    | **Endereço**             | Rede social                        | Plataforma de delivery                        | Sistema de e-commerce / Correios |
-    | **Saldo em conta**       | Rede social                        | Sistema de cashback ou programa de pontos     | Sistema bancário |
-    | **Etnia**                | Sistema bancário                   | Sistema de pesquisa demográfica               | Estatísticas (ex:IBGE) |
+3 - 
+| **Atributo**            | **Sistema em que não é importante** | **Sistema em que é moderadamente importante** | **Sistema em que é essencial** |
+|--------------------------|-------------------------------------|-----------------------------------------------|--------------------------------|
+| **CPF**                  | Rede social | Plataforma de e-commerce (para emissão de nota fiscal) | Sistema bancário ou da Receita Federal |
+| **Histórico de saúde**    | Sistema de rede social              | Sistema de academia (para treinos personalizados) | Sistema hospitalar / plano de saúde |
+| **Quantidade de seguidores** | Sistema bancário                  | Plataforma de cursos online | Rede social (Instagram, TikTok) |
+| **Habilidade destra**    | Sistema de e-commerce               | Jogo online     | Sistema de clínica de fisioterapia / ortopedia |
+| **Endereço**             | Rede social                        | Plataforma de delivery                        | Sistema de e-commerce / Correios |
+| **Saldo em conta**       | Rede social                        | Sistema de cashback ou programa de pontos     | Sistema bancário |
+| **Etnia**                | Sistema bancário                   | Sistema de pesquisa demográfica               | Estatísticas (ex:IBGE) |
 
 
 4- 
-    a. Sim, faz muito sentido em um sistema bancário um objeto "conta" possuir uma
-    "pessoa" como um atributo interno representando o titular da conta, pois o objeto “pessoa” vai ter seus próprios atributos, como CPF, telefone, entre outros.
-    
-    b. Da mesma forma, pode acontecer sim de uma Pessoa ter mais de uma conta, então o ideal é guardar as contas da Pessoa em uma Lista de objetos “conta”.
+a. Sim, faz muito sentido em um sistema bancário um objeto "conta" possuir uma "pessoa" como um atributo interno representando o titular da conta, pois o objeto “pessoa” vai ter seus próprios atributos, como CPF, telefone, entre outros.
+
+b. Da mesma forma, pode acontecer sim de uma Pessoa ter mais de uma conta, então o ideal é guardar as contas da Pessoa em uma Lista de objetos “conta”.
 
 5- Objetos de um sistema de controle acadêmico: aluno, professor, curso, disciplina, turma.
 
